@@ -19,7 +19,7 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange }) => {
 
     try {
       const response = await fetch(
-        `https://pickbonus.myawardwallet.com/api/registration/readdelete.php?`,
+        `https://bonusnumber1.com/api/registration/readdelete.php?`,
         {
           method: "GET",
           headers: {
@@ -55,7 +55,7 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange }) => {
 
     try {
       const response = await fetch(
-        `https://pickbonus.myawardwallet.com/api/user/create.php`,
+        `https://bonusnumber1.com/api/user/create.php`,
         {
           method: "POST",
           headers: {
@@ -142,7 +142,7 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange }) => {
 
     try {
       const response = await fetch(
-        `https://pickbonus.myawardwallet.com/api/registration/readdelete.php?`,
+        `https://bonusnumber1.com/api/registration/readdelete.php?`,
         {
           method: "GET",
           headers: {

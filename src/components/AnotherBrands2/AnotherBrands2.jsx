@@ -23,13 +23,13 @@ function AnotherBrands2({
   };
 
   const apiOld =
-    "https://pickbonus.myawardwallet.com/api/brands/read.php";
+    "https://bonusnumber1.com/api/brands/read.php";
   const apiNew =
-    "https://pickbonus.myawardwallet.com/api/brands/read2.php";
+    "https://bonusnumber1.com/api/brands/read2.php";
     const api1043 =
-    "https://pickbonus.myawardwallet.com/api/brands/read3.php";
+    "https://bonusnumber1.com/api/brands/read3.php";
     const api1044 =
-    "https://pickbonus.myawardwallet.com/api/brands/read4.php";
+    "https://bonusnumber1.com/api/brands/read4.php";
 
   function shuffleArray(array) {
     const shuffledArray = array.slice();
